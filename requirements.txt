@@ -1,0 +1,9 @@
+Flask
+tensorflow
+opencv-python
+numpy
+keras
+Pillow
+gunicorn
+scikit-learn
+joblib
