@@ -1,8 +1,8 @@
 Flask
-tensorflow
+tensorflow-cpu==2.13.0
 opencv-python
 numpy
-keras
+keras==2.13.1
 Pillow
 gunicorn
 scikit-learn
